@@ -1,0 +1,211 @@
+sending incremental file list
+components.json
+next-env.d.ts
+next.config.js
+package.json
+postcss.config.js
+tailwind.config.ts
+tsconfig.json
+tsconfig.tsbuildinfo
+app/
+app/globals.css
+app/layout.tsx
+app/page.tsx
+app/admin/
+app/admin/page.tsx
+app/api/
+app/api/admin/
+app/api/admin/clients/
+app/api/admin/clients/route.ts
+app/api/admin/equipment/
+app/api/admin/equipment/route.ts
+app/api/admin/equipment/[id]/
+app/api/admin/equipment/[id]/route.ts
+app/api/admin/export/
+app/api/admin/export/[type]/
+app/api/admin/export/[type]/route.ts
+app/api/admin/quotes/
+app/api/admin/quotes/route.ts
+app/api/admin/quotes/[id]/
+app/api/admin/quotes/[id]/status/
+app/api/admin/quotes/[id]/status/route.ts
+app/api/admin/stats/
+app/api/admin/stats/route.ts
+app/api/ai/
+app/api/ai/recommendations/
+app/api/ai/recommendations/route.ts
+app/api/categories/
+app/api/categories/route.ts
+app/api/contact/
+app/api/contact/route.ts
+app/api/equipment/
+app/api/equipment/route.ts
+app/api/equipment/bulk/
+app/api/equipment/bulk/route.ts
+app/api/quotes/
+app/api/quotes/route.ts
+app/api/quotes/[id]/
+app/api/quotes/[id]/route.ts
+app/api/quotes/[id]/pdf/
+app/api/quotes/[id]/pdf/route.ts
+app/contact/
+app/contact/page.tsx
+app/equipment/
+app/equipment/page.tsx
+app/quote-builder/
+app/quote-builder/page.tsx
+app/quotes/
+app/quotes/[id]/
+app/quotes/[id]/page.tsx
+components/
+components/contact-form.tsx
+components/contact-info.tsx
+components/cta-section.tsx
+components/features-section.tsx
+components/footer.tsx
+components/header.tsx
+components/hero-section.tsx
+components/quote-display.tsx
+components/stats-section.tsx
+components/testimonials-section.tsx
+components/theme-provider.tsx
+components/admin/
+components/admin/admin-dashboard.tsx
+components/admin/clients-list.tsx
+components/admin/dashboard-stats.tsx
+components/admin/equipment-manager.tsx
+components/admin/quotes-list.tsx
+components/equipment/
+components/equipment/equipment-card.tsx
+components/equipment/equipment-catalog.tsx
+components/quote-builder/
+components/quote-builder/ai-recommendations.tsx
+components/quote-builder/quote-builder-wizard.tsx
+components/quote-builder/selected-equipment-list.tsx
+components/quote-builder/steps/
+components/quote-builder/steps/client-info-step.tsx
+components/quote-builder/steps/equipment-selection-step.tsx
+components/quote-builder/steps/event-details-step.tsx
+components/quote-builder/steps/quote-review-step.tsx
+components/quote-builder/steps/venue-spec-step.tsx
+components/ui/
+components/ui/accordion.tsx
+components/ui/alert-dialog.tsx
+components/ui/alert.tsx
+components/ui/aspect-ratio.tsx
+components/ui/avatar.tsx
+components/ui/badge.tsx
+components/ui/breadcrumb.tsx
+components/ui/button.tsx
+components/ui/calendar.tsx
+components/ui/card.tsx
+components/ui/carousel.tsx
+components/ui/checkbox.tsx
+components/ui/collapsible.tsx
+components/ui/command.tsx
+components/ui/context-menu.tsx
+components/ui/date-range-picker.tsx
+components/ui/dialog.tsx
+components/ui/drawer.tsx
+components/ui/dropdown-menu.tsx
+components/ui/form.tsx
+components/ui/hover-card.tsx
+components/ui/input-otp.tsx
+components/ui/input.tsx
+components/ui/label.tsx
+components/ui/menubar.tsx
+components/ui/navigation-menu.tsx
+components/ui/pagination.tsx
+components/ui/popover.tsx
+components/ui/progress.tsx
+components/ui/radio-group.tsx
+components/ui/resizable.tsx
+components/ui/scroll-area.tsx
+components/ui/select.tsx
+components/ui/separator.tsx
+components/ui/sheet.tsx
+components/ui/skeleton.tsx
+components/ui/slider.tsx
+components/ui/sonner.tsx
+components/ui/switch.tsx
+components/ui/table.tsx
+components/ui/tabs.tsx
+components/ui/task-card.tsx
+components/ui/textarea.tsx
+components/ui/toast.tsx
+components/ui/toaster.tsx
+components/ui/toggle-group.tsx
+components/ui/toggle.tsx
+components/ui/tooltip.tsx
+components/ui/use-toast.ts
+hooks/
+hooks/use-toast.ts
+lib/
+lib/ai-service.ts
+lib/constants.ts
+lib/db.ts
+lib/types.ts
+lib/utils.ts
+lib/validations.ts
+lib/db/
+prisma/
+prisma/schema.prisma
+scripts/
+scripts/seed.ts
+
+sent 601,231 bytes  received 2,377 bytes  1,207,216.00 bytes/sec
+total size is 592,043  speedup is 0.98
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
+
+  ▲ Next.js 14.2.28
+  - Experiments (use with caution):
+    · outputFileTracingRoot
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully
+   Skipping linting
+   Checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/8) ...
+   Generating static pages (2/8) 
+   Generating static pages (4/8) 
+   Generating static pages (6/8) 
+ ✓ Generating static pages (8/8)
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                              Size     First Load JS
+┌ ○ /                                    8.54 kB         151 kB
+├ ○ /_not-found                          873 B            88 kB
+├ ○ /admin                               11 kB           173 kB
+├ ƒ /api/admin/clients                   0 B                0 B
+├ ƒ /api/admin/equipment                 0 B                0 B
+├ ƒ /api/admin/equipment/[id]            0 B                0 B
+├ ƒ /api/admin/export/[type]             0 B                0 B
+├ ƒ /api/admin/quotes                    0 B                0 B
+├ ƒ /api/admin/quotes/[id]/status        0 B                0 B
+├ ƒ /api/admin/stats                     0 B                0 B
+├ ƒ /api/ai/recommendations              0 B                0 B
+├ ƒ /api/categories                      0 B                0 B
+├ ƒ /api/contact                         0 B                0 B
+├ ƒ /api/equipment                       0 B                0 B
+├ ƒ /api/equipment/bulk                  0 B                0 B
+├ ƒ /api/quotes                          0 B                0 B
+├ ƒ /api/quotes/[id]                     0 B                0 B
+├ ƒ /api/quotes/[id]/pdf                 0 B                0 B
+├ ○ /contact                             7.59 kB         136 kB
+├ ○ /equipment                           2.82 kB         141 kB
+├ ○ /quote-builder                       15.1 kB         186 kB
+└ ƒ /quotes/[id]                         6.07 kB         110 kB
++ First Load JS shared by all            87.1 kB
+  ├ chunks/966-629615565105f35d.js       31.6 kB
+  ├ chunks/fd9d1056-31cd4e5e32ed9a2a.js  53.6 kB
+  └ other shared chunks (total)          1.9 kB
+
+
+○  (Static)   prerendered as static content
+ƒ  (Dynamic)  server-rendered on demand
+

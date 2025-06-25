@@ -1,0 +1,66 @@
+  ▲ Next.js 14.2.28
+  - Local:        http://localhost:3000
+  - Environments: .env
+  - Experiments (use with caution):
+    · outputFileTracingRoot
+
+ ✓ Starting...
+ ✓ Ready in 1571ms
+ ○ Compiling / ...
+ ✓ Compiled / in 2.4s (1254 modules)
+ GET / 200 in 2928ms
+ GET / 200 in 2811ms
+ ✓ Compiled in 546ms (623 modules)
+ GET / 200 in 52ms
+ ✓ Compiled /_not-found in 329ms (1245 modules)
+ GET /grid.svg 404 in 396ms
+ GET /dots.svg 404 in 378ms
+ GET /circuit.svg 404 in 330ms
+ ○ Compiling /quote-builder ...
+ ✓ Compiled /quote-builder in 1160ms (1495 modules)
+ GET / 200 in 124ms
+ GET / 200 in 40ms
+ GET / 200 in 43ms
+ GET /grid.svg 404 in 27ms
+ GET /circuit.svg 404 in 25ms
+ GET /dots.svg 404 in 16ms
+ GET / 200 in 45ms
+ GET /grid.svg 404 in 17ms
+ GET /circuit.svg 404 in 16ms
+ GET /dots.svg 404 in 16ms
+ GET / 200 in 41ms
+ GET / 200 in 35ms
+ GET /grid.svg 404 in 17ms
+ GET /dots.svg 404 in 15ms
+ GET /circuit.svg 404 in 13ms
+ GET / 200 in 33ms
+ GET /grid.svg 404 in 26ms
+ GET /circuit.svg 404 in 21ms
+ GET /dots.svg 404 in 13ms
+ GET / 200 in 34ms
+ GET /grid.svg 404 in 17ms
+ GET /dots.svg 404 in 13ms
+ GET /circuit.svg 404 in 13ms
+ GET / 200 in 31ms
+ GET / 200 in 31ms
+ GET /grid.svg 404 in 23ms
+ GET /dots.svg 404 in 22ms
+ GET /circuit.svg 404 in 14ms
+ GET / 200 in 39ms
+ GET / 200 in 36ms
+ GET /circuit.svg 404 in 25ms
+ GET /grid.svg 404 in 27ms
+ GET /dots.svg 404 in 26ms
+ GET / 200 in 33ms
+ GET /dots.svg 404 in 25ms
+ GET /circuit.svg 404 in 24ms
+ GET /grid.svg 404 in 19ms
+ ✓ Compiled in 281ms (734 modules)
+ ✓ Compiled in 118ms (734 modules)
+ ✓ Compiled in 151ms (734 modules)
+ ✓ Compiled in 147ms (734 modules)
+ ✓ Compiled in 613ms (746 modules)
+ ✓ Compiled in 654ms (746 modules)
+ ✓ Compiled in 521ms (746 modules)
+ ✓ Compiled in 782ms (755 modules)
+[?25h

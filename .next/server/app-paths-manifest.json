@@ -1,0 +1,5 @@
+{
+  "/quote-builder/page": "app/quote-builder/page.js",
+  "/api/equipment/route": "app/api/equipment/route.js",
+  "/api/quote-events/route": "app/api/quote-events/route.js"
+}
